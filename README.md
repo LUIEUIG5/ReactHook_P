@@ -1,13 +1,13 @@
 
 # React Hooks
 
-1 Use State
-2 Use Effect
-3 Use Reduce
-4 Use Ref
-5 Use Context
-6 Use Imperative
-7 Use Layout Effect
+## Use State
+## Use Effect
+## Use Reduce
+## Use Ref
+## Use Context
+## Use Imperative
+## Use Layout Effect
 
 # Getting Started with Create React App
 
